@@ -1,1 +1,1 @@
-# Weather-Prediction-DeepLearning
+# WeatherPrediction-DeepLearning
